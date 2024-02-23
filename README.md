@@ -1,4 +1,4 @@
-# Stroke-Classifier-with-Imbalanced-Dataset-Using-Three-different-approaches-
+# Stroke-Classifier-with-Imbalanced-Data-by-Model-Selection-and-Hyperparameter-Tuning
 
 1. Data cleaning and data preprocessing is done to convert the non-numerical categorical data to numerical data based on the characteristic(nominal or ordinal) of the feature.
 2. The dataset is highly imbalanced, class weighted, downsampling and upsampling method is used to handle it.
